@@ -1,0 +1,68 @@
+.header{
+  height: 600px;
+  width: 1320px;
+  flex-shrink: 0;
+  border-radius: 16px;
+  background:  linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);1x;
+ background-image: url(../resources/Banner\ Image.png);
+ background-size: cover;
+ 
+ 
+}
+.header h4{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+h1{
+    font-weight: 900;
+    font-size: 72px;
+    color: #FFF;
+    text-align: center;
+    width: 632px;
+    height: 190px;
+    top: 182px;
+    left: 484px;
+}
+.parcentice h1{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+.para{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.ann{
+    color: #070211;
+
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.photo{
+    width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+padding: 400 1050;
+}
